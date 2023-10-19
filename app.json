@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "FirebaseCheck",
+    "slug": "FirebaseCheck",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
